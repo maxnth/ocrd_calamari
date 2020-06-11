@@ -1,5 +1,5 @@
 numpy
-tensorflow
+tensorflow==2.1.0
 calamari-ocr
 setuptools >= 41.0.0  # tensorboard depends on this, but why do we get an error at runtime?
 click
